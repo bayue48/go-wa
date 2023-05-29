@@ -1,0 +1,2 @@
+# go-wa
+bot sticker
